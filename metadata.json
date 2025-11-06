@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Hipótesis de Cambio y MCS (TCCR)",
+  "description": "Aplicación para profesionales del Trabajo Social para generar automáticamente \"Hipótesis de Cambio\" y \"Mapa de Circulación de Sentido\" (MCS) basados ​​en los Criterios Internos de Validez de la TCCR.",
+  "requestFramePermissions": []
+}
